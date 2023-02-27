@@ -1,2 +1,2 @@
 # Python_practice
-Linkedin trainings
+Linkedin trainings: Python Basics
